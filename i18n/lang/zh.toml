@@ -1,0 +1,4 @@
+name = "你好 {{.Name}}"
+address = "街道"
+# 注释
+age = 21 #年龄
